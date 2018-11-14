@@ -8,4 +8,8 @@ public class Demo {
     public static void main(String[] args) {
         System.out.println("第一次提交");
     }
+
+    public void bug01(){
+        System.out.println("修复bug01");
+    }
 }
