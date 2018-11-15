@@ -12,4 +12,7 @@ public class Demo {
     public void bug01(){
         System.out.println("修复bug01");
     }
+    public void test(){
+        System.out.println("主分支修改了bug");
+    }
 }
