@@ -18,4 +18,7 @@ public class Demo {
     public void test03(){
         System.out.println("主分支又修改了一个bug");
     }
+    public void bug01test(){
+        System.out.println("分支修改了一个bug");
+    }
 }
